@@ -11,7 +11,7 @@
 > python app.py
 
 ### Sample results:
-<img src='./sample_results/Screenshot from 2020-08-28 19-46-49.png'>
-<img src='./sample_results/Screenshot from 2020-08-28 19-47-37.png'>
+<img src='./sample\ results/Screenshot from 2020-08-28 19-46-49.png'>
+<img src='./sample\ results/Screenshot from 2020-08-28 19-47-37.png'>
 
 
